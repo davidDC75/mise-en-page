@@ -1,5 +1,7 @@
 # Création d’une page à 3 colonnes contenant des éléments flexibles
 
+https://www.pierre-giraud.com/html-css-apprendre-coder-cours/page-colonne-flexbox-grille/
+
 Le but de cet exercice est de créer un design de page complexe en réutilisant le maximum de concepts vus jusqu’ici : éléments structurants, flexbox, responsive design, grilles, etc. afin de voir une dernière fois comment les différentes notions vues jusqu’ici peuvent fonctionner ensemble en pratique.
 
 Je vous propose donc de créer à nouveau une page complète qui va suivre deux dispositions différentes selon qu’elle soit affichée sur petits écrans (sur mobile) ou sur un écran de bureau.
